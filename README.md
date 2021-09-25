@@ -10,7 +10,7 @@ Failed Kickstarter campaigns had much higher fundraising goals than successful K
 
 
 ### Challenges and Difficulties Encountered
-I did not encounter any notable challenges or difficulty with the data. 
+Some of the challenges a student might encounter are learning how to use the various functions in excel to get the desired result as well as how to go back to correct any mistakes made. It was challenging for me to understand the statistical concepts because the functions and formulas were new to me. 
 
 ## Results
 Successful campaigns have a lower goal then failed campaigns. The average goal for successful campaigns was $4000.  The best months to launch a campaign are April through July. The worst month to launch is December. One limitation of the data set is that it does not include the amount of money spent on marketing and promotion for each campaign. Suggested tables and/or graphs might include comparing the success rate by year to identify trends over the time spanned by the dataset. 
